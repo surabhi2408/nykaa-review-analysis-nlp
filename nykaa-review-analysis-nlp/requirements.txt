@@ -1,0 +1,9 @@
+pandas
+numpy
+nltk
+scikit-learn
+transformers
+torch
+vaderSentiment
+streamlit
+selenium
